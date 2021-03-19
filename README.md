@@ -19,7 +19,7 @@ Live detect Square on frame and crop it into image when capture
 </a>
 <br/>
 <br/>
-<img src="Demo/demo.gif" width="80px"/>
+<img src="Demo/demo.gif" width="240px"/>
 
 
 
